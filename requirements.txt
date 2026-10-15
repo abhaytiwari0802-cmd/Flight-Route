@@ -1,0 +1,11 @@
+# Project dependencies
+
+numpy
+pandas
+networkx
+matplotlib
+seaborn
+plotly
+pytest
+
+# For Tkinter, it's part of Python standard library
